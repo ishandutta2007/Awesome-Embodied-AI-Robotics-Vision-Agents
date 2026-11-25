@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Vision-Agents"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embodied-AI-Robotics-Vision-Agents?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Vision-Agents"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embodied-AI-Robotics-Vision-Agents?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embodied-AI-Robotics-Vision-Agents/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embodied-AI-Robotics-Vision-Agents?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -61,9 +61,9 @@ The global Embodied AI & Robotics Vision Agent market is estimated at **$18.4 bi
 
 ## 💻 Open-Source GitHub Repositories
 
-*Leading open-source codebases, neural vision foundation models, simulation suites, and robot learning frameworks. Sorted descending by GitHub star count.*
+*Leading open-source codebases, neural vision foundation models, simulation suites, and robot learning frameworks. Sorted descending by GitHub Stars_Count.*
 
-| Repository | Stars | Category / Tech Stack | License | Description |
+| Repository | GitHub_Stars | Category / Tech Stack | License | Description |
 | :--- | :---: | :--- | :--- | :--- |
 | **[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)** | [![Stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=social&color=white)](https://github.com/ultralytics/ultralytics/stargazers) | Computer Vision / Real-Time Perception | AGPL-3.0 | Real-time object detection, instance segmentation, oriented bounding box (OBB) tracking, and pose estimation standard for robotic vision. |
 | **[huggingface/lerobot](https://github.com/huggingface/lerobot)** | [![Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers) | Robot Learning / End-to-End Policies | Apache-2.0 | Hugging Face's open platform for end-to-end robot learning with pretrained vision policies (ACT, Diffusion Policy) and low-cost hardware support. |
@@ -114,3 +114,12 @@ If this curated collection assists your research, robotics prototyping, or engin
 ## ⚠️ Disclaimer
 
 *All trademarks, logos, and brand names are the property of their respective owners. Mention of commercial products, companies, or open-source packages does not constitute an endorsement. Pricing tiers, valuations, and trial policies reflect public 2026 data and may change at the discretion of individual vendors.*
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Embodied-AI-Robotics-Vision-Agents&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Embodied-AI-Robotics-Vision-Agents_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Embodied-AI-Robotics-Vision-Agents_growth.svg">
+  </picture>
+</a>
